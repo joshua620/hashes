@@ -1,0 +1,1 @@
+puts "my_hash uses the symbol x as the key, while my_hash2 uses \"hi there\" as the key."
